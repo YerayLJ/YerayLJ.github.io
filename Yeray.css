@@ -1,0 +1,44 @@
+body
+{
+	background-color: rgb(25,25,25);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: 1700px;
+	text-align: center; 
+}
+h1
+{
+	letter-spacing: 0.1em;
+	color: rgb(203,159,0);
+	font-size: 100px;
+	font-family:fantasy;
+	text-decoration: underline;
+	border: 3px groove;
+}	
+nav
+{
+	font-size: large;
+	color: red;
+}
+article
+{
+	color: rgb(203,159,0);
+	text-align: center;
+}
+h2
+{
+	font-weight: bold;
+ 	font-size: 50px;
+}
+h3
+{
+}
+aside
+{
+	color: rgb(203,159,0);
+	text-align: 
+}
+p
+{
+	font-size: 14px;
+}

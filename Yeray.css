@@ -14,31 +14,40 @@ h1
 	font-family:fantasy;
 	text-decoration: underline;
 	border: 3px groove;
-}	
-nav
-{
-	font-size: large;
-	color: red;
-}
-article
-{
-	color: rgb(203,159,0);
-	text-align: center;
+	border-color: rgb(203,159,0);
 }
 h2
 {
-	font-weight: bold;
- 	font-size: 50px;
+	font-size: 15px;
+	color: white;
+}
+article
+{
+	color: white;
+	text-align: center;
 }
 h3
 {
+	font-weight: bold;
+ 	font-size: 50px;
+ 	color: rgb(203,159,0);
+}
+p
+{
+	font-size: 50px;
+	text-align: center; 
+	color: white;
 }
 aside
 {
 	color: rgb(203,159,0);
 	text-align: 
 }
-p
+h4:hover
 {
-	font-size: 14px;
+	border: dashed;
+}
+h5
+{
+	font-size: 20px;
 }
